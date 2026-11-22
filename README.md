@@ -56,7 +56,7 @@ In traditional table service, manual order handling creates constant operational
 
 ## Deployment Status, Confidentiality & B2B Licensing
 
-🔒 **Proprietary Software Asset (All Rights Reserved):** This platform runs in a **private, isolated Linux VPS environment** for architectural validation and B2B demonstration purposes (not open to public self-service registration). For operational security and NDA compliance, the source code and internal infrastructure configurations are not publicly exposed.
+🔒 **Proprietary Software Asset (All Rights Reserved)**: This repository serves as a functional and architectural showcase within the Professional Portfolio (https://antoniangeloflore.com — **note:** *video pitches are currently in Italian; both the portfolio portal and B2B technical delivery are available in English*). For operational security and NDA compliance, the source code and internal packaging are not publicly exposed.
 
 🤝 **White-Label Agency Licensing & Custom Deployment:** Available for white-label agency licensing, dedicated single-tenant VPS deployment, and asynchronous B2B integrations (zero-call workflow).
 * **Portfolio & Video Demos** *(Italian portal & video pitches — English B2B communication & delivery)*: [https://antoniangeloflore.com](https://antoniangeloflore.com)
