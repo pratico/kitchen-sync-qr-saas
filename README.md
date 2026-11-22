@@ -58,9 +58,7 @@ In traditional table service, manual order handling creates constant operational
 
 🔒 **Proprietary Software Asset (All Rights Reserved)**: This repository serves as a functional and architectural showcase within the Professional Portfolio (https://antoniangeloflore.com — **note:** *video pitches are currently in Italian; both the portfolio portal and B2B technical delivery are available in English*). For operational security and NDA compliance, the source code and internal packaging are not publicly exposed.
 
-🤝 **White-Label Agency Licensing & Custom Deployment:** Available for white-label agency licensing, dedicated single-tenant VPS deployment, and asynchronous B2B integrations (zero-call workflow).
-* **Portfolio & Video Demos** *(Italian portal & video pitches — English B2B communication & delivery)*: [https://antoniangeloflore.com](https://antoniangeloflore.com)
-* **Direct B2B Contact (LinkedIn):** [LinkedIn](https://www.linkedin.com/in/antoniangelo-f-30003622)
+🤝 **White-Label Agency Licensing & Custom Deployment:** Available for white-label agency licensing, dedicated single-tenant VPS deployment, and asynchronous B2B integrations (zero-call workflow). Connect via [antoniangeloflore.com](https://antoniangeloflore.com) or [LinkedIn](https://www.linkedin.com/in/antoniangelo-f-30003622/).
 
 ---
 
